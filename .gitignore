@@ -1,0 +1,18 @@
+# Build and packaging outputs
+bin/
+obj/
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.pfx
+*.cer
+*.snk
+.vs/
+.vscode/
+*.user
+*.suo
+# Local secrets and overrides
+.env
+.env.*
+appsettings.local.json
